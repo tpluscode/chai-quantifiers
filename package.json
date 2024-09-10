@@ -51,6 +51,6 @@
     "y18n": ">=4.0.1"
   },
   "peerDependencies": {
-    "chai": "^4.x.x"
+    "chai": "4 - 5"
   }
 }
